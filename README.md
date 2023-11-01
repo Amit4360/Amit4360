@@ -1,9 +1,21 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+17780
+Fork on GitHub
+5213
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Amit Upadhyay</h1>
 <h3 align="center">A passionate developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit4360&label=Profile%20views&color=0e75b6&style=flat" alt="amit4360" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit4360" alt="amit4360" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science and ML**
 
